@@ -1,6 +1,10 @@
 # 💫 About Me:
 Hey Folks 👋😄<br>I'm Gouda Hemanth, you can call me Gouda though. <br><br>🔭Data Enthusiast, who loves to explore data and get insights<br>🌱 Deeply invested in Upskilling<br>💬 You can ask me about literally anything<br>💓 Loves playing indoor 🏸♟️ and outdoor games ⚽🏏<br>😁 Additionally, I'm also an anime weeb <br>⚡ Did you ever try writing a factorial program using SQL?
 
+## 🗺️ Roadmap.sh Profile :
+
+https://roadmap.sh/u/thegouda
+
 [![roadmap.sh](https://roadmap.sh/card/tall/66db02d6c46f68d0529a60fb?variant=dark)](https://roadmap.sh)
 
 ## 🌐 Socials:
