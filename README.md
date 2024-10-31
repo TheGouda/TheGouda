@@ -3,7 +3,6 @@ Hey Folks 👋😄<br>I'm Gouda Hemanth, you can call me Gouda though. <br><br>�
 
 ## 🗺️ Roadmap.sh Profile :
 
-https://roadmap.sh/u/thegouda
 
 [![roadmap.sh](https://roadmap.sh/card/tall/66db02d6c46f68d0529a60fb?variant=dark)](https://roadmap.sh)
 
